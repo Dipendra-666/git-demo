@@ -2,3 +2,6 @@ Deployment test file
 Created by Dipendra on dev branch
 Date: February 03, 2026
 If this file appears in /var/www/dev-wordpress/ on the server after push → pipeline works!
+
+This line was added to test auto-deployment
+Workflow triggered successfully? Check server VM!
