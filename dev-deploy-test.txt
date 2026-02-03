@@ -1,0 +1,4 @@
+Deployment test file
+Created by Dipendra on dev branch
+Date: February 03, 2026
+If this file appears in /var/www/dev-wordpress/ on the server after push → pipeline works!
